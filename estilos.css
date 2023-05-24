@@ -1,0 +1,30 @@
+*{
+    border-width: 0.5px;
+    border-color: rgb(12, 12, 12);
+    border-style: solid;
+    margin: 0.5px;
+}
+body{
+    background-color: antiquewhite;
+    padding: 15px;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    background-color: burlywood;
+}
+#sech{
+    display: flex;
+}
+.imgh{
+    height: 60px;
+    width: 60px;
+}
+footer{
+    display: flex;
+    justify-content: space-between;
+}
+*{
+    margin: 10px;
+    color: rgb(0, 0, 0);
+}
